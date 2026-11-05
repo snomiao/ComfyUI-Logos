@@ -36,9 +36,9 @@ This repository contains 8 high-quality logos available in both PNG and SVG form
 
 ## Usage
 
-These logos are provided for use in ComfyUI-related projects, documentation, and applications. All logos are located in the `png/` directory.
+These logos are provided for use in ComfyUI-related projects, documentation, and applications. PNG files are in the `png/` directory and SVG files are in the `svg/` directory.
 
 ### Format Details
 
 - **PNG**: High-quality raster images, perfect for web use and applications
-- **SVG**: Vector graphics that scale perfectly at any size, ideal for print and responsive designs
+- **SVG**: True vector paths, extracted from the official `Comfy Brand guidelines.pdf` and filled with the brand colours (#172DD7 blue, #F0FF41 yellow). They scale to any size, ideal for print and responsive designs
